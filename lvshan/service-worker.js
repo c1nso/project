@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.023b4e6038bc8ca855ad80961d43d1ca.js"
+  "/precache-manifest.033b1d1661f164da99dfbc283c4f29b7.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "lvshan"});
