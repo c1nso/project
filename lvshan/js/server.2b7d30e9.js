@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["server"],{"1d74":function(e,t,s){"use strict";s.r(t);var n=s("2877"),r=Object(n.a)({},function(){this.$createElement;this._self._c;return this._m(0)},[function(){var e=this.$createElement,t=this._self._c||e;return t("div",{staticClass:"server"},[t("h1",[this._v("服务项目")])])}],!1,null,null,null);t.default=r.exports}}]);
